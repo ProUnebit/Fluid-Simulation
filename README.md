@@ -1,3 +1,3 @@
-# Fluid Simulation 3D Scene
+# Particles Flow Field Simulation
 ```
-PixiJS, WebGL, GLSL
+PixiJS + WebGL
