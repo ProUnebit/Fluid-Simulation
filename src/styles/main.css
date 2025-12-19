@@ -130,10 +130,27 @@ body {
 /* Info and Stats */
 .info {
     position: absolute;
-    bottom: 20px;
+    bottom: 28px;
     left: 20px;
     color: rgba(255, 255, 255, 0.6);
     font-size: 12px;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 4px;
+    border-radius: 4px;
+}
+
+.by {
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+    color: rgba(255, 255, 255, 0.35);
+    font-size: 12px;
+    font-style: italic;
+    background: rgba(0, 0, 0, 0.3);
+    backdrop-filter: blur(10px);
+    padding: 4px;
+    border-radius: 4px;
 }
 
 .stats {
