@@ -1,6 +1,9 @@
 - - -
 ### Particles Flow Field Simulation - [Demo Link](https://particles-flow-field.netlify.app)
-###### PixiJS v8 • WebGL • TypeScript
+
+![React](https://img.shields.io/badge/WebGL-teal?logo=webgl)
+![React](https://img.shields.io/badge/PixiJS-8.14.3-teal?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAD60lEQVR4nOyZW2gcVRjH/3Nmdnazm82sYTFWDN5aiyy+eEPtxQcf9EFRKFYLgrWI+KAPEXzwQl98ELEPBnxQfKhB8iKiVEWwKLZUShWxL96aGg2uzdaYGtlbdi7njJwRY9LuzOQ7M8s2sL+XhJnzne//n51zvm9mjNo1j/vYoPzptaus3yKSMjDQbwYG+s2GN2CkOltGR3Z7Bea262Fs2QR2SRHwfYjFOtxTZ+Ac+x7OV6cAkd7OraVRBzSrgMKT9yC/ewdYqRA5lp9dQnv6CFoHPwOWnUR5ZR1IbCB33y0Y2b8HbLRIivN+X0T9uSk4x39Szp24kBUm7kfptSfI4iXGFWWMTk1g6KEdSSSoL+L83rtQfOreRMnBGKyXHkH27hvVp1AJyty2FSPPP6icdA06g/XqY9CvvUwpnG7ANGC9shfQdaWEXUUUcrBeflQtlhowtOuO4P5NG/OmzTB3VshxZAP5PTvXN9DlcH+swjs9DwiR7tyrIBUydqmFTOXK2HGdT79Fff90UMAk+ngZ1oF9MG/eEhlnbq8ABgO89RkG9Rcwbrgqdozzzc/4++k3V8RLeHURS/sm4f22EC0mn4W++XKKJKKB8fh7v/nGJwC/8Ar6LRutg5+nkmM1JANaIRs7hp+uhZ+bDT+3kiMfn2M1tEWsafFj/PDOhJVH4sMdjyQp1XZaCAE/zIAGDD0cv8vIZo9C4nZainZdF47jgHMO4XfZQXSG4gu7kb31uujJuIA3c4aUX9mAFG7bNtrtdvB/JpOBrusoTjwAtO2VcawwBPP2rdA3jcbOaZ+cBVo2SYeSAc/z0Gw2g7/FYhHZ7KqFt2ubypQBy+8dJ8eQDUjR9XodjDGUy+m1FN78X+gcOkGOIy1iwQUajUYgvlQqkZOFTwzUX3wHIO5AoBr4b6GmKh5A4/UP4Rz9TimWZEDePsPDw0qJwmi/+yVakx8px9OaOcaQy+WUk62h46IxeQittw4nmoZkwDTNRMkCuEDn8Ek0DrwPPhfd3K0HkgFd5SlMCPBzDXgz88F7oeWPv4ao0aptFCQDGvu3F1pYWEC1Wg1qwflc/ewHMJfa/x+QrUUPv0DQ6gD3MTc3h1qtFhQvy7IuGBLsCim+eYuDZEC2DrIOjI2NBa2DXNTn0+1YLyEZkHVAijcMA1pIa21fzAYMxoIrH0mXp7FeQrpc/i9/RJ9fagLnGkk1kaD1QidmIH4NN8Hf/qKnO043aM/EnoD7zBTE7Nk1x30h4E0dAZ8+lra+eE0qr9d9poHdWQGrjAOtDsTRH2Jvr16QyveBfjL40H0xMDDQbza8AUOu5H6LUGWRL8//EwAA///IFGVdaIJ13gAAAABJRU5ErkJggg==)
+![React](https://img.shields.io/badge/TypeScript-5.9.3-teal?logo=typescript)
 - - -
 ![Demo](https://github.com/user-attachments/assets/2fcef085-3697-41c4-a3ce-22a0edc5410a)
 
